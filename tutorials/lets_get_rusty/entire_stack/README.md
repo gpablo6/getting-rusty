@@ -1,0 +1,2 @@
+# Description
+Implementation for video tutorial "[Build your entire tech stack in Rust](https://www.youtube.com/watch?v=luOgEhLE2sg)" from youtube channel "[Let's Get Rusty](https://www.youtube.com/@letsgetrusty)".
